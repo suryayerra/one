@@ -15,4 +15,4 @@ document.getElementById('contact-form').addEventListener('submit', function (e) 
   this.reset();
 });
 
-#this is js file code
+#this is js file 
